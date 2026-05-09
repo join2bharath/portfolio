@@ -1,0 +1,69 @@
+╔══════════════════════════════════════════════════════════════╗
+║                  📸 ADD YOUR PHOTO HERE                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+📂 LOCATION:
+   E:\Crio\ai-portfolio\public\images\
+
+📝 FILE NAME (choose one):
+   ✓ profile.jpg  (recommended)
+   ✓ profile.png
+   ✓ avatar.jpg
+   ✓ avatar.png
+
+📏 RECOMMENDED SIZE:
+   • 500x500 pixels (square)
+   • Under 500KB file size
+   • JPG or PNG format
+
+🎯 QUICK STEPS:
+
+   1. Find your professional photo
+   2. Rename it to "profile.jpg"
+   3. Copy it to: ai-portfolio\public\images\
+   4. Refresh browser (Ctrl + F5)
+   5. Done! Your photo will appear in About section
+
+💡 TIPS FOR BEST RESULTS:
+
+   ✓ Professional headshot
+   ✓ Good lighting
+   ✓ Plain background
+   ✓ Smile naturally
+   ✓ High quality image
+   ✓ Square aspect ratio
+
+❌ AVOID:
+
+   ✗ Blurry photos
+   ✗ Dark images
+   ✗ Group photos
+   ✗ Sunglasses
+   ✗ Very large files (over 1MB)
+
+🔧 IF PHOTO DOESN'T SHOW:
+
+   1. Check file name is exactly "profile.jpg" (lowercase)
+   2. Check it's in the correct folder
+   3. Refresh browser with Ctrl + F5
+   4. Check file format (only JPG/PNG)
+
+📍 YOUR PHOTO WILL APPEAR IN:
+
+   • About Section (main profile image)
+   • With cool neon glow effect
+   • Glassmorphism frame
+   • Hover animations
+
+🌐 CURRENT STATUS:
+
+   Portfolio is running at: http://localhost:3000
+   
+   After adding photo:
+   1. Go to About section
+   2. Your photo will replace the emoji
+   3. Enjoy your personalized portfolio!
+
+═══════════════════════════════════════════════════════════════
+
+Need help? Check HOW_TO_ADD_PHOTO.md for detailed instructions!
